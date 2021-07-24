@@ -18,8 +18,8 @@ author: Cong
 email: ustc_cc@ustc.edu.mail.cn
 description: > # this means to ignore newlines until "baseurl:"
   外协/学渣/万年萌新
-url: http://lszero.com # the base hostname & protocol for your site, e.g. http://example.com
-sitesearchurl: lszero.github.io
+#url: http://lszero.com # the base hostname & protocol for your site, e.g. http://example.com
+sitesearchurl: icode-Cong.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Markdown Processors
@@ -37,11 +37,11 @@ excerpt_separator: <!-- more -->
 permalink: /:categories/:title.html
 
 social_media:
-  github_url: https://github.com/lszero
-  weibo_url: http://weibo.com/u/2313016370
-  zhihu_url: https://www.zhihu.com/people/lszero
-  twitter_url: https://twitter.com/_lszero
-  lofter_url: http://intzero.lofter.com/
+  github_url: https://github.com/icode-Cong
+  #weibo_url: http://weibo.com/u/2313016370
+  #zhihu_url: https://www.zhihu.com/people/lszero
+  #twitter_url: https://twitter.com/_lszero
+  #lofter_url: http://intzero.lofter.com/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
